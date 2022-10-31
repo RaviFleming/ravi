@@ -45,7 +45,7 @@ h1 {
     font-family: 'Poppins', sans-serif;
 }
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 720px){
     .bag{
         width:300px;
     }
